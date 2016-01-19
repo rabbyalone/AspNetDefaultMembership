@@ -53,7 +53,7 @@
                     <LayoutTemplate>
 
                         <div class="col-md-12">
-                            <h2 class="text-center" style="font-family:Ubuntu">Balancika <strong>HRM</strong></h2>                           
+                            <h2 class="text-center" style="font-family:Ubuntu">Member<strong>Login</strong></h2>                           
                             <div class="form-group has-feedback">                               
                                 <asp:TextBox runat="server" ID="UserName" class="form-control" placeholder="Username"></asp:TextBox>
                                 <span class="glyphicon glyphicon-user form-control-feedback"></span>

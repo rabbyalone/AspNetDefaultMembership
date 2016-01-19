@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <asp:LoginStatus ID="LoginStatus1" runat="server" />
         <h4>Your Desired Default Page</h4>
     </div>
     </form>
