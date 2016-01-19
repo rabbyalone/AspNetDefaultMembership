@@ -79,6 +79,9 @@
                                 <div class="col-xs-4">
                                     <asp:Button runat="server" CommandName="Login" Text="Log In" ValidationGroup="Login1" ID="LoginButton" CssClass="btn btn-success"></asp:Button>
                                 </div>
+                                <div class="col-xs-4">
+                                    <asp:Button runat="server" Text="Create User" ID="btnCreateUser" CssClass="btn btn-info" OnClick="btnCreateUser_Click"></asp:Button>
+                                </div>
                                 <!-- /.col -->
                             </div>
 

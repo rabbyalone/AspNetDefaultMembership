@@ -11,4 +11,8 @@ public partial class Security_Login : System.Web.UI.Page
     {
 
     }
+    protected void btnCreateUser_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("~/Security/CreateUser.aspx");
+    }
 }
