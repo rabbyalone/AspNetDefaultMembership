@@ -4,6 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title></title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
      <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,700italic,500italic,400italic' rel='stylesheet' type='text/css'/>
    
